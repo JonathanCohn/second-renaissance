@@ -17,7 +17,7 @@ sectors:
 activities:
   - Media & Publishing
   - Convening & Coordination
-  - Advocacy & Activism
+  - Research
 cohere: true
 metadata_version: "1"
 territory: Alternative Futures
